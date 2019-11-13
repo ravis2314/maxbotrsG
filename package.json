@@ -1,0 +1,25 @@
+{
+  "name": "maxbot_rs",
+  "version": "1.0.0",
+  "description": "maxbotG",
+  "main": "index.js",
+  "scripts": {
+    "test": "maxBot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravis2314/maxbotrsG.git"
+  },
+  "keywords": [
+    "maxB"
+  ],
+  "author": "RS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravis2314/maxbotrsG/issues"
+  },
+  "homepage": "https://github.com/ravis2314/maxbotrsG#readme",
+  "dependencies": {
+    "is-null-or-empty": "0.0.1"
+  }
+}
